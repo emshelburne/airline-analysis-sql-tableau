@@ -45,7 +45,7 @@ Each visualization includes titles, captions, and annotations highlighting insig
 
 ---
 
-## 💡 Key Findings (from SQL)
+## 💡 Key Findings
 
 **Dataset coverage**
 - Total flights (2018–2019): **6,521,361**  
