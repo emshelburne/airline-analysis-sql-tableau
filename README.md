@@ -11,6 +11,7 @@ It combines **SQL-based data analysis** with **interactive Tableau visualization
 |--------|--------------|
 | `sql/` | Annotated SQL queries answering business questions about flight volume, cancellations, miles, and delays |
 | `tableau/` | Tableau workbook (`.twb`) with dashboards and story presentation |
+| `data/` | All required data files |
 
 ---
 
