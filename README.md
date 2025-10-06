@@ -45,8 +45,6 @@ Each visualization includes titles, captions, and annotations highlighting insig
 
 ---
 
-## 💡 Key Findings
-
 ## 💡 Key Findings (from SQL)
 
 **Dataset coverage**
