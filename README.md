@@ -11,7 +11,6 @@ It combines **SQL-based data analysis** with **interactive Tableau visualization
 |--------|--------------|
 | `sql/` | Annotated SQL queries answering business questions about flight volume, cancellations, miles, and delays |
 | `tableau/` | Tableau workbook (`.twb`) with dashboards and story presentation |
-| `data/` | All required data files |
 
 ---
 
@@ -120,14 +119,5 @@ Each visualization includes titles, captions, and annotations highlighting insig
 - Data storytelling and visualization design in Tableau  
 - Translating analytical results into business strategy  
 - Workflow integration between database and BI tools  
-
----
-
-## ⚙️ How to Run
-
-1. Import the dataset into MySQL Workbench as schema `AirTraffic`.
-2. Run the queries in `sql/air_traffic_analysis.sql`.
-3. Open `tableau/air_traffic_story.twb` and connect to your MySQL instance using a **Live** connection.
-4. Explore the dashboards interactively.
 
 ---
